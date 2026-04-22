@@ -247,3 +247,6 @@ cd BSC-SIF-Amazon-keyword-database
 - 不要输出没有数据支持的精确预算建议
 
 如果你不确定某条经验能不能写进去，请先核对对应来源和当前规则，再决定是否纳入。
+如果需要了解、共创、学习相关亚马逊运营 Skill，请添加我们公众号和相关联系方式，获取相关亚马逊运营 Skill 源文件。
+![9f453825a605ac5a92149be126636dc4](https://github.com/user-attachments/assets/9680fd49-0f0f-4642-8601-462ca28f1c77)
+<img width="1056" height="1441" alt="微信图片_20260408141327_4138_87" src="https://github.com/user-attachments/assets/1304ff7c-2657-4e80-a98d-4fd0381b47e4" />
