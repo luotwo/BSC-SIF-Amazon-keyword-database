@@ -46,7 +46,7 @@
 如果你会用 Git：
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/luotwo/BSC-SIF-Amazon-keyword-database/tree/main
 cd BSC-SIF-Amazon-keyword-database
 ```
 
