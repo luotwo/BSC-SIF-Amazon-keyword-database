@@ -1,6 +1,12 @@
 # BSC-SIF-Amazon-keyword-database
-
 一个面向 Claude Code / Claude Desktop / 支持 MCP 的 Claude 环境的亚马逊关键词库 skill。
+<img width="1086" height="1448" alt="工作流流程图" src="https://github.com/user-attachments/assets/f962b606-46b6-4824-a735-29a2013d9769" />
+<img width="1086" height="1448" alt="方法框架图" src="https://github.com/user-attachments/assets/992aef82-600e-44be-bd50-5c4c472acea1" />
+<img width="1086" height="1448" alt="认知升级图 " src="https://github.com/user-attachments/assets/82eb4d4c-b3e2-4790-8849-71e491239171" />
+<img width="1086" height="1448" alt="痛点图" src="https://github.com/user-attachments/assets/7b62fad9-6e87-45ac-85a7-87061aa69e2c" />
+<img width="1086" height="1448" alt="输出结果结构图 " src="https://github.com/user-attachments/assets/bc12ed8e-75fd-4887-a8bf-9e3838599254" />
+<img width="1086" height="1448" alt="工作流流程图" src="https://github.com/user-attachments/assets/0d25a94c-8305-4934-8c83-8e2bef8cb6d1" />
+
 
 它不是只给你一批关键词，而是把关键词调研、流量分层、广告结构建议、否词整理、Listing 联动整理成一套可执行结果。
 
