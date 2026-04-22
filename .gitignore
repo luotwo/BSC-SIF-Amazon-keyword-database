@@ -1,0 +1,4 @@
+.claude/
+.env
+*.csv
+mcp-config.local.json

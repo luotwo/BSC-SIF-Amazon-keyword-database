@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "sif-amazon": {
+      "url": "https://mcp.sif.com/mcp?secret-key=YOUR_SIF_SECRET_KEY"
+    }
+  }
+}
