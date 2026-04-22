@@ -76,7 +76,7 @@ cd BSC-SIF-Amazon-keyword-database
 {
   "mcpServers": {
     "sif-amazon": {
-      "url": "https://mcp.sif.com/mcp?secret-key=SIFmcp260420u447m6dbpfpnaph8"
+      "url": "https://mcp.sif.com/mcp?secret-key=YOUR_SIF_SECRET_KEY"
     }
   }
 }
