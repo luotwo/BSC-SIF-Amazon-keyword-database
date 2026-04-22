@@ -216,7 +216,6 @@ cd BSC-SIF-Amazon-keyword-database
 - `BENCHMARK.md`：实跑样例与回归验收标准
 - `HANDOFF.md`：后续维护交接说明
 - `mcp-config.json`：SIF MCP 配置示例
-- `wiki/`：知识库页面与实战沉淀内容
 
 ## 常见问题
 
@@ -247,4 +246,4 @@ cd BSC-SIF-Amazon-keyword-database
 - 不要把知识库没说的话硬写进 SOP
 - 不要输出没有数据支持的精确预算建议
 
-如果你不确定某条经验能不能写进去，先去核对 `wiki/` 里的对应页面，再决定是否纳入。
+如果你不确定某条经验能不能写进去，请先核对对应来源和当前规则，再决定是否纳入。
